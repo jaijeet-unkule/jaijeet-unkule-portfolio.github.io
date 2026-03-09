@@ -3,7 +3,7 @@
 This repository contains the source code for my personal digital marketing portfolio website.
 
 🔗 **Live Website:**  
-https://jaijeet-unkule.github.io  
+(https://jaijeet-unkule.github.io/jaijeet-unkule-portfolio.github.io/)
 
 ---
 
